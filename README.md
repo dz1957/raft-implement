@@ -4,7 +4,7 @@ reference:
 raft paper:(https://github.com/maemual/raft-zh_cn)
 author's open source implement: [LogCabin](https://github.com/logcabin/logcabin)。
 
-# functions
+# Functions
 * leader election
 * log replication
 * snapshot
